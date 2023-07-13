@@ -1,0 +1,10 @@
+{
+  "semi": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "printWidth": 100,
+  "importOrder": ["^react$", "^[a-z](.*)$", "^@(.*)$", "^[./]"],
+  "importOrderSeparation": false,
+  "importOrderSortSpecifiers": true
+}
